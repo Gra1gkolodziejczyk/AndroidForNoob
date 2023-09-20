@@ -56,7 +56,7 @@ class MainActivity : ComponentActivity() {
                                 color = Color.Green
                             )
                             Button(onClick = {}) {
-                                "Click me"
+                                "Click me boiiiiiiiiiiiii"
                             }
                         }
                     }
